@@ -103,9 +103,9 @@ void loop()
 void beacon(void)
 {
   //BEACON------------------
-  rear_and_stab.setPixelColor(2, rear_and_stab.Color(0,0,0));
-  rear_and_stab.setPixelColor(3, rear_and_stab.Color(0,0,0));
-  rear_and_stab.show();
+  //rear_and_stab.setPixelColor(2, rear_and_stab.Color(0,0,0));
+  //rear_and_stab.setPixelColor(3, rear_and_stab.Color(0,0,0));
+  //rear_and_stab.show();
 
   if(stab_i > _2pi)
     stab_i = 0;
