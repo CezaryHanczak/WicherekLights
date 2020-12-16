@@ -12,4 +12,5 @@ And I use 60 degrees lens for LEDs
 http://got.by/5dwqj4
 
 Adafruit_NeoPixel Library - https://github.com/adafruit/Adafruit_NeoPixel
+
 Use capacitors :) - https://learn.adafruit.com/adafruit-neopixel-uberguide/best-practices
